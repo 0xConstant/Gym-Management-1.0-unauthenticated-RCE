@@ -1,6 +1,6 @@
 # ExploitDev Journey #5 | Gym Management 1.0 unauthenticated RCE
 Original Exploit: https://www.exploit-db.com/exploits/48506 <br>
-Tutorial: N\\A
+
 
 **Exploit name:** Gym Management 1.0 unauthenticated RCE  <br>
 **CVE**: N\\A <br>
